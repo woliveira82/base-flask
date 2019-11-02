@@ -1,0 +1,10 @@
+### Python ###
+*.pyc
+
+### Flask ###
+
+### venv ###
+venv/*
+
+### VisualStudioCode ###
+.vscode/*
