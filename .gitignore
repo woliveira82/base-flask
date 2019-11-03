@@ -2,9 +2,10 @@
 *.pyc
 
 ### Flask ###
+instance/
 
 ### venv ###
-venv/*
+venv/
 
 ### VisualStudioCode ###
-.vscode/*
+.vscode/
